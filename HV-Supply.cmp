@@ -1,0 +1,136 @@
+Cmp-Mod V01 Created by CvPcb (2013-june-11)-stable date = Tue 01 Apr 2014 06:06:17 PM EDT
+
+BeginCmp
+TimeStamp = /53326B79;
+Reference = C1;
+ValeurCmp = 470pF;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /53326A3F;
+Reference = C2;
+ValeurCmp = 1000uF;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /53326A52;
+Reference = C3;
+ValeurCmp = 100nF;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /53326BC1;
+Reference = C4;
+ValeurCmp = 10uF;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /53327147;
+Reference = C5;
+ValeurCmp = C;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5332714D;
+Reference = C6;
+ValeurCmp = C;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5332710B;
+Reference = D1;
+ValeurCmp = DIODE;
+IdModule  = D3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53326DE2;
+Reference = L1;
+ValeurCmp = 100uH 3.2A;
+IdModule  = D3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53327265;
+Reference = P1;
+ValeurCmp = CONN_2;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /53326C59;
+Reference = Q1;
+ValeurCmp = BC550;
+IdModule  = TO92;
+EndCmp
+
+BeginCmp
+TimeStamp = /53326DA5;
+Reference = Q2;
+ValeurCmp = BC550;
+IdModule  = TO92;
+EndCmp
+
+BeginCmp
+TimeStamp = /53326DD3;
+Reference = Q3;
+ValeurCmp = IRF9540N;
+IdModule  = TO220_VERT;
+EndCmp
+
+BeginCmp
+TimeStamp = /53326B18;
+Reference = R1;
+ValeurCmp = .116;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53326C9E;
+Reference = R2;
+ValeurCmp = 340r;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53326EEB;
+Reference = R3;
+ValeurCmp = 400k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53326CB9;
+Reference = R4;
+ValeurCmp = 400k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53326CB3;
+Reference = R5;
+ValeurCmp = 22k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53326C13;
+Reference = RV1;
+ValeurCmp = 5k;
+IdModule  = RV2;
+EndCmp
+
+BeginCmp
+TimeStamp = /533269EB;
+Reference = U1;
+ValeurCmp = MC34063;
+IdModule  = DIP-8__300;
+EndCmp
+
+EndListe
